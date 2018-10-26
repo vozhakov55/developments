@@ -1,0 +1,137 @@
+
+#wrapper {
+	 background-color: #DDDDDD;
+	 background-image: url(../img/2.jpg);
+	   	}
+
+#div-nav{
+	padding-left: 0; padding-right: 0;
+}	   	
+
+#header {
+font-family: Arial, sans-serif;
+padding: 20px 0 20px 0;
+background-image: url(../img/1.jpeg); 
+border: 1px solid #00CECE;
+}
+
+#senter1 {
+font-size: 150%;
+}
+
+/* #senter2 {
+font-size: 200%;
+color: green;
+} */
+
+h1 {
+color: green;	
+}
+
+#senter3, #senter5, #Kurbanova {
+font-size: 120%;
+font-weight: 600;
+}
+
+#senter4 {
+margin-top: 20px;
+}
+
+#senter4 span{
+font-size: 150%;
+/* background-color: #800000; */ 
+ color: white; 
+ padding: 1%;
+margin: 1%;
+ background-image: 	-moz-linear-gradient(bottom, #800000, #FFC4C4);
+ background-image: 	-ms-linear-gradient(bottom, #800000, #FFC4C4);
+ background-image: 	-o-linear-gradient(bottom, #800000, #FFC4C4);
+ background-image: 	-webkit-linear-gradient(bottom, #800000, #FFC4C4);
+ background-image: 	linear-gradient(bottom, #800000, #FFC4C4);
+}
+
+
+#main {
+background-image: url(../img/3.jpg);
+padding: 20px 0 0 0;
+}
+
+#imgElips{
+	margin-top: 10px;
+	margin-bottom:  10px; 
+}
+
+#Kurbanova{
+	margin-bottom: 20px;
+}
+
+ #komu {
+margin-top: 20px;
+margin-bottom: 20px;
+padding: 20px 0 20px 0;
+font-weight: 600;
+font-size: 120%;
+color: white;
+background-color: #24B8FF;
+text-align: center;
+ background-image: 	-moz-linear-gradient(bottom, #005177, #24B8FF);
+ background-image: 	-ms-linear-gradient(bottom, #005177, #24B8FF);
+ background-image: 	-o-linear-gradient(bottom, #005177, #24B8FF);
+ background-image: 	-webkit-linear-gradient(bottom, #005177, #24B8FF);
+ background-image: 	linear-gradient(bottom, #005177, #24B8FF);
+}
+
+#oplata {
+	/* background-color: #80FF80; */
+    background-color: #58C7FC;
+	padding-bottom: 20px;
+}
+
+footer {
+	 padding: 20px 0 20px 0;
+}
+
+.footer1 {
+font-size: 120%;
+}
+
+ #form1 {
+	border: 1px solid #5FAFFC;
+	padding: 10px;
+	background-color: #6AD6FC;
+	/* background-image: url(../img/1.jpeg); */ 
+} 
+
+ .h4-comment{
+ 	//margin-bottom: 20px;
+ }
+
+.p-form1 {
+	margin: 0 0 0 20%;
+}
+
+.mywarning{
+color: red;
+margin: 0 auto;
+}
+
+#submit{
+	cursor: pointer;
+} 
+
+/* переопределяем стиль меню */
+#selected{
+	background-color: #EBEEF1;
+}
+
+/* для страницы комментариев */
+
+div.view1{
+font-family: Calibri, Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-style: italic; 
+
+} 
+
+div.view2{
+font-family: Calibri, Verdana, Geneva, Arial, sans-serif;
+} 
