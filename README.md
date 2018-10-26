@@ -1,3 +1,3 @@
-# developments
-Разработка.
+# development
+Разработан.
 
